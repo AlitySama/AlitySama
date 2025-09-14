@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐉 • Co-founder of the SKR Dragon Ball
+# 🐉 • Co-CEO | SKR STUDIO
 
 #
 ![](https://nirzak-streak-stats.vercel.app/?user=AlitySama&theme=apprentice&hide_border=true)<br/>
