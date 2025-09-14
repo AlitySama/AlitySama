@@ -1,6 +1,6 @@
 <div align="center">
 
-#Co-CEO | SKR STUDIO
+# Co-CEO | SKR STUDIO
 
 #
 ![](https://nirzak-streak-stats.vercel.app/?user=AlitySama&theme=apprentice&hide_border=true)<br/>
